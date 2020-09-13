@@ -51,6 +51,34 @@ nav ul {
   margin-left: 5px;
 
 }
+
+.subbox
+{
+
+  background-color: #A0C2E0;
+  padding: 10px 30px;
+  margin: auto;
+  width: 70%;
+
+}
+
+
+.code
+{
+
+  background-color: #F2FAB8;
+  padding: 10px 30px;
+  margin: auto;
+  width: 70%;
+  font-family: DejaVu Sans Mono, monospace;
+  font-size: 15px;
+
+
+
+
+}
+
+
 article {
   padding: 20px;
   width: 100%;
