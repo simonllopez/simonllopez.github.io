@@ -4,11 +4,12 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background-color: #C2C8CD;
 }
 
 /* Style the header */
 header {
-  background-color: #134a26;
+  background-color: #0061BF;
   padding: 10px;
   text-align: center;
   font-size: 35px;
@@ -20,7 +21,7 @@ nav {
   float: left;
   width: 10%;
   height: 300px; /* only for demonstration, should be removed */
-  background-color: #74ac88;
+  background-color: #004180;
   padding: 10px;
 }
 
@@ -40,7 +41,7 @@ nav ul {
 
 .box
 {
-  background-color: white;
+  background-color: #E1E3E6;
   border-radius: 10px;
   width: 100%;
   text-align: center;
@@ -51,7 +52,7 @@ article {
   float: left;
   padding: 20px;
   width: 90%;
-  background-color: #f1f1f1;
+  background-color: #E1E3E6;
   height: 300px; /* only for demonstration, should be removed */
 }
 
@@ -64,7 +65,7 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color: #777;
+  background-color: #0C2236;
   padding: 10px;
   text-align: center;
   color: white;
