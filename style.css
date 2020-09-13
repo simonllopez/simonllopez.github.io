@@ -12,7 +12,7 @@ header {
   background-color: #39566F;
   padding: 10px;
   text-align: center;
-  font-size: 35px;
+  font-size: 30px;
   color: white;
   font-family: DejaVu Sans Mono, monospace;
 
@@ -52,11 +52,12 @@ nav ul {
 
 }
 article {
-  float: right;
   padding: 20px;
   width: 100%;
   background-color: #E1E3E6;
-  height: 300px; /* only for demonstration, should be removed */
+  font-size: 20px;
+  text-align: justify;
+  
 }
 
 /* Clear floats after the columns */
