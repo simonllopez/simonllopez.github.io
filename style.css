@@ -83,7 +83,7 @@ p
 .photo
 {
 
-width: 30%
+width: 40%
 
 }
 
@@ -165,5 +165,13 @@ footer {
   body {
     width: 100%;
     height: auto;
+  }
+  .photo
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+
   }
 }
