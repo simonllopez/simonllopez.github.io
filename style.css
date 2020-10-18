@@ -1,19 +1,23 @@
 * {
   box-sizing: border-box;
+  padding-top: 10px;
+  color: #666;
 }
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #C2C8CD;
+  background-color: #d5d5d5;
+  width: 70%;
+  margin: auto;
 }
 
 /* Style the header */
 header {
-  background-color: #39566F;
+  background-color: #FFF;
   padding: 10px;
   text-align: center;
   font-size: 30px;
-  color: white;
+  color: black;
   font-family: DejaVu Sans Mono, monospace;
 
 }
@@ -21,7 +25,7 @@ header {
 /* Create two columns/boxes that floats next to each other */
 nav {
   width: 100%;
-  background-color: #273746;
+  background-color: #FFF;
   padding: 10px;
 }
 
@@ -30,6 +34,16 @@ nav ul {
   list-style-type: none;
   padding: 0;
 }
+
+
+
+p
+{
+  margin: 0px;
+}
+
+
+
 
 .link
 {
@@ -40,6 +54,19 @@ nav ul {
   font-family: DejaVu Sans Mono, monospace;
 }
 
+
+.linkp
+{
+  text-decoration-style: none;
+  text-decoration-line: none;
+  color: black;
+  font-size: 20px;
+}
+
+.b
+{
+  color: black;
+}
 .box
 {
   background-color: #001120;
@@ -50,6 +77,33 @@ nav ul {
   display: inline;
   margin-left: 5px;
 
+}
+
+
+.photo
+{
+
+width: 30%
+
+}
+
+
+.box2
+{
+  background-color: #8c8e91;
+  border-radius: 5px;
+  width: 20%;
+  text-align: center;
+  padding: 10px 20px;
+  display: inline;
+  
+
+}
+
+
+.a
+{
+  background-color: #757575;
 }
 
 .subbox
@@ -82,7 +136,7 @@ nav ul {
 article {
   padding: 20px;
   width: 100%;
-  background-color: #E1E3E6;
+  background-color: #EEE;
   font-size: 20px;
   text-align: justify;
   
@@ -97,10 +151,10 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color: #273746;
-  padding: 10px;
+  background-color: #FFF;
+  padding: 20px;
   text-align: center;
-  color: white;
+  color: black;
   font-size: 20px;
   font-family: DejaVu Sans Mono, monospace;
 
@@ -108,7 +162,7 @@ footer {
 
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
 @media (max-width: 1000px) {
-  nav, article {
+  body {
     width: 100%;
     height: auto;
   }
