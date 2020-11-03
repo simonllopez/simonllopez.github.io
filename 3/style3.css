@@ -150,7 +150,7 @@ footer {
 {
 
   display: inline-block;
-  width: 33%;
+  width: 30%;
   padding: 15px;
   
 
@@ -162,12 +162,25 @@ footer {
     width: 100%;
     height: auto;
   }
-  .photo
+ 
+  .box3
   {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 70%;
-
+    width:100%;
   }
+
+  
+}
+
+@media (max-width: 1800px) {
+  p{
+  font-size: 15px;
+  }
+  
+}
+
+@media (max-width: 1400px) {
+  p{
+  font-size: 10px;
+  }
+  
 }
