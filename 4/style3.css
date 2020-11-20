@@ -41,6 +41,7 @@ p
 {
   margin: 0px;
   font-size: 24px;
+  font-family: DejaVu Sans Mono, monospace;
 }
 
 
@@ -150,10 +151,8 @@ footer {
 {
 
   display: inline-block;
-  width: 30%;
-  padding: 15px;
+  width: 32%;
   
-
 }
 
 
@@ -171,6 +170,13 @@ width:100%;
 
 }
 
+.b4
+{
+  width: 70%;
+  margin: auto;
+  
+
+}
 .video
 {
   width: 560 px;
