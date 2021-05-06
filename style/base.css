@@ -1,0 +1,135 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 300;
+}
+
+
+body {
+  background-color: #ffffff;
+  margin: 0px;
+  padding: 0px;
+}
+
+.top img
+{
+  width: 100%;
+}
+
+
+.top
+{
+  margin: auto;
+  overflow: hidden;
+  max-height: 300px;
+  align-items: center; /* vertical */
+  display: flex;
+  position: relative;
+  text-align: center;
+}
+
+.top .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Rubik', sans-serif;
+  font-weight: 600;
+  color: white;
+  font-size: 100px;
+  -moz-user-select: none; 
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none; 
+}
+
+.menu
+{
+  background-color: #c0c0c0;
+  width: 100%;
+  overflow: hidden;
+}
+
+.menu a
+{
+  font-size: 30px;
+  text-decoration: none;
+  color: inherit;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 400;
+}
+
+.menu .elemento
+{
+  color: black;
+  width: fit-content;
+  padding: 10px;
+  float: left;
+
+
+}
+
+.menu .elemento:hover
+{
+  background-color: #005662;
+  color:white;
+
+}
+
+
+.menu .activo , .menu .activo:hover
+{
+  background-color: #00838f;
+  color: white;
+}
+
+.tema
+{
+  padding: 20px;
+  margin: 0px;
+  text-align: justify;
+}
+
+.tema p
+{
+  margin: 10px;
+  font-size: 23px;
+
+
+}
+
+.tema h2
+{
+  margin: 10px;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.txt
+{
+  width: 50%;
+  background-color: white;
+}
+
+
+
+@media only screen and (max-width: 1300px) 
+{
+
+.txt {width: 100%;}
+.top .centered {font-size: 70px;}
+.tema h2 {text-align: center;}
+}
+
+
+@media only screen and (max-width: 700px) 
+{
+
+.txt {width: 100%;}
+.top .centered {font-size: 28px;}
+
+.tema h2 {font-size: 22px;  text-align: center;}
+.tema p {font-size: 15px;}
+
+.menu a {font-size: 22px;}
+}
