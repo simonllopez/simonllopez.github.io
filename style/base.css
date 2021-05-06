@@ -117,7 +117,7 @@ b
 
 .txt img
 {
-  width: 50%;
+  max-width: 50%;
 }
 
 
@@ -128,7 +128,7 @@ b
 .txt {width: 100%;}
 .top .centered {font-size: 70px;}
 .tema h2 {text-align: center;}
-.txt img {width: 100%};
+.txt img {max-width: 100%;};
 }
 
 
@@ -140,7 +140,7 @@ b
 
 .tema h2 {font-size: 20px;  text-align: center;}
 .tema p {font-size: 15px;}
-.txt img {width: 100%};
+.txt img {max-width: 100%;};
 
 .menu a {font-size: 22px;}
 }
