@@ -94,8 +94,11 @@ body {
 {
   margin: 10px;
   font-size: 23px;
+}
 
-
+b
+{
+  font-weight: 400;
 }
 
 .tema h2
