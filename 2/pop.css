@@ -1,0 +1,73 @@
+.pop
+{
+
+    position: fixed;
+    top: 50px;
+    right: 50px;
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 100px;
+    border-radius: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.divimg img
+{
+    width: 100%; 
+}
+
+.divimg
+{
+    width: 90%;   
+    padding: 15px;
+    margin: auto;
+
+}
+
+
+.divimg:hover
+{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50px;
+    transition: background-color 0.6s ease-in-out;
+
+}
+
+
+@media only screen and (max-width: 1200px) 
+{
+
+.pop
+{
+
+    position: fixed;
+    bottom: 10px;
+    top: auto;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 80%;
+    height: 13%;
+    border-radius: 100px;
+    padding-right: 0px;
+}
+
+
+.divimg
+{
+    width: 20%;   
+    display: inline-block;
+    margin: 0% 2.5%;
+    padding: 2.5% 3%;
+    vertical-align: middle;
+
+}
+
+.divimg img
+{
+    width: 90%;
+}
+
+}
+

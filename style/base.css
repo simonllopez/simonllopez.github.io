@@ -48,6 +48,7 @@ body {
   font-size: 100px;
   margin: 30px;
   text-align: center;
+
 }
 
 .top h2
@@ -61,7 +62,7 @@ body {
 .top
 {
   margin-bottom: 100px;
-  z-index:1;
+  padding-top: 200px;
 
 }
 
