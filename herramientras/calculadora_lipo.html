@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Simon</title>
+    <meta charset="utf-8" />
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1" /> -->
+    <link rel="stylesheet" type="text/css" href="../style/base.css" />
+    <link rel="stylesheet" type="text/css" href="../style/index.css" />
+    <script src="../js/lipo.js"></script>
+
+    <link rel="icon" href="../icono.png" />
+</head>
+
+<body>
+    <div class="all">
+        <div class="mid">
+            <h1 class="title">Calculadora Li-Po</h1>
+            <h2 onclick="location.href='../herramientas.html';" class="subtitle">
+                - Otras Herramientras -
+            </h2>
+
+            <h2 onclick="location.href='../index.html';" class="subtitle">
+                - Simón López -
+            </h2>
+
+            <h3 class="subsubtitle" style="margin-top: 30px">Párametros</h3>
+
+            <div class="param">
+                <label for="fname">Voltaje de una celda [V]: </label>
+                <input type="number" value="3.7" id="fname" name="fname" />
+                <br />
+                <label for="fname">Capacidad de una celda [mAh]: </label>
+                <input type="number" value="3400" id="fname" name="fname" />
+                <br />
+                <label for="fname">Numero celdas serie (s): </label>
+                <input type="number" value="1" id="fname" name="fname" />
+                <br />
+                <label for="fname">Numero celdas paralelo (p): </label>
+                <input type="number" value="1" id="fname" name="fname" />
+            </div>
+
+            <button onclick="calcular()" class="calcular">Calcular</button>
+
+            <h3 class="subsubtitle" style="margin-top: 30px">Resultados</h3>
+
+            <div class="param">
+                <div id="vtotal" class="result">Voltaje total: <b>58</b> V</div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
