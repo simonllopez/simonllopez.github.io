@@ -28,24 +28,39 @@
 
             <div class="param">
                 <label for="fname">Voltaje de una celda [V]: </label>
-                <input type="number" value="3.7" id="fname" name="fname" />
+                <input type="number" value="3.7" id="V" name="fname" />
                 <br />
                 <label for="fname">Capacidad de una celda [mAh]: </label>
-                <input type="number" value="3400" id="fname" name="fname" />
+                <input type="number" value="3000" id="mAh" name="fname" />
                 <br />
                 <label for="fname">Numero celdas serie (s): </label>
-                <input type="number" value="1" id="fname" name="fname" />
+                <input type="number" value="2" id="s" name="fname" />
                 <br />
                 <label for="fname">Numero celdas paralelo (p): </label>
-                <input type="number" value="1" id="fname" name="fname" />
+                <input type="number" value="1" id="p" name="fname" />
+                <br />
+                <label for="fname">Peso una celda (gr): </label>
+                <input type="number" value="40" id="gr" name="fname" />
+                <br />
+                <label for="fname">Precio una celda (eur): </label>
+                <input type="number" value="4.2" id="eur" name="fname" />
             </div>
 
             <button onclick="calcular()" class="calcular">Calcular</button>
 
             <h3 class="subsubtitle" style="margin-top: 30px">Resultados</h3>
 
-            <div class="param">
-                <div id="vtotal" class="result">Voltaje total: <b>58</b> V</div>
+            <div class="param" style="padding-top: 3px; padding-bottom: 10px">
+                <div id="vtotal" class="result">Voltaje total: <b>00</b> V</div>
+                <div id="n_celdas" class="result">
+                    Numero de celdas: <b>0</b> celdas
+                </div>
+                <div id="cap" class="result">Capacidad total: <b>00</b> mAh</div>
+                <div id="Pot" class="result">Potencia total: <b>00</b> Wh</div>
+                <div id="densidad" class="result">
+                    Densidad potencia: <b>00</b> Wh/gr
+                </div>
+                <div id="eur_total" class="result">Precio total: <b>00</b> Wh</div>
             </div>
         </div>
     </div>
