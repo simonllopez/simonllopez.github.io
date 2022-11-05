@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hardware on Simón López</title>
+    <link>simonllopez.github.io/tags/hardware/</link>
+    <description>Recent content in hardware on Simón López</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="simonllopez.github.io/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como instalar ROS2 en un mini PC de pruebas</title>
+      <link>simonllopez.github.io/posts/ros/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>simonllopez.github.io/posts/ros/</guid>
+      <description>Instalación de ubuntu ros2 y pruebas finales</description>
+    </item>
+    
+  </channel>
+</rss>

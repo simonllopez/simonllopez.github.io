@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Simón López</title>
+    <link>simonllopez.github.io/tags/</link>
+    <description>Recent content in Tags on Simón López</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="simonllopez.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hardware</title>
+      <link>simonllopez.github.io/tags/hardware/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>simonllopez.github.io/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROS</title>
+      <link>simonllopez.github.io/tags/ros/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>simonllopez.github.io/tags/ros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JS</title>
+      <link>simonllopez.github.io/tags/js/</link>
+      <pubDate>Wed, 12 Oct 2022 13:57:32 +0200</pubDate>
+      
+      <guid>simonllopez.github.io/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESP32</title>
+      <link>simonllopez.github.io/tags/esp32/</link>
+      <pubDate>Wed, 12 Oct 2022 12:57:32 +0200</pubDate>
+      
+      <guid>simonllopez.github.io/tags/esp32/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

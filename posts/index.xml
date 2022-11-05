@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Simón López</title>
+    <link>simonllopez.github.io/posts/</link>
+    <description>Recent content in Posts on Simón López</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="simonllopez.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como instalar ROS2 en un mini PC de pruebas</title>
+      <link>simonllopez.github.io/posts/ros/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>simonllopez.github.io/posts/ros/</guid>
+      <description>Instalación de ubuntu ros2 y pruebas finales</description>
+    </item>
+    
+    <item>
+      <title>Página de prueba de electrónica</title>
+      <link>simonllopez.github.io/posts/electronics/</link>
+      <pubDate>Wed, 12 Oct 2022 13:57:32 +0200</pubDate>
+      
+      <guid>simonllopez.github.io/posts/electronics/</guid>
+      <description>e</description>
+    </item>
+    
+    <item>
+      <title>Como instalar ROS2 en un mini PC para pruebas</title>
+      <link>simonllopez.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 12 Oct 2022 12:57:32 +0200</pubDate>
+      
+      <guid>simonllopez.github.io/posts/my-first-post/</guid>
+      <description>Emeplos</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Esp32</title>
+      <link>simonllopez.github.io/posts/esp32/</link>
+      <pubDate>Wed, 12 Oct 2022 12:57:32 +0200</pubDate>
+      
+      <guid>simonllopez.github.io/posts/esp32/</guid>
+      <description>Ejemplo</description>
+    </item>
+    
+  </channel>
+</rss>

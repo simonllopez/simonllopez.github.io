@@ -1,0 +1,19 @@
+
+@font-face {
+  font-family: 'customFont'; /*a name to be used later*/
+  src: url('../UbuntuMono-R.ttf'); /*URL to font*/
+}
+
+code { padding: 1px;}
+
+code > span {
+  margin-left: 20px;
+  margin-bottom: 2px;
+}
+
+
+code 
+{
+  font-family: customFont;
+  font-weight: 200;
+}
