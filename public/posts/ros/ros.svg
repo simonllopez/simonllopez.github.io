@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="172.10283mm"
+   height="54.990383mm"
+   viewBox="0 0 172.10281 54.990382"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   sodipodi:docname="ros.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.93859298"
+     inkscape:cx="262.62715"
+     inkscape:cy="266.88885"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-nodes="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(134.4245,-54.504482)">
+    <rect
+       style="fill:#282a35;fill-opacity:1;stroke-width:0.372274;stroke-linecap:round;stroke-linejoin:round"
+       id="rect931"
+       width="172.10283"
+       height="54.990383"
+       x="-134.4245"
+       y="54.504482"
+       ry="0.31328744" />
+    <rect
+       style="fill:#73ffe2;fill-opacity:1;stroke:none;stroke-width:1.41549;stroke-linecap:round;stroke-linejoin:round"
+       id="rect10896"
+       width="50.791969"
+       height="23.635685"
+       x="-112.76246"
+       y="70.152893"
+       ry="1.565576" />
+    <rect
+       style="fill:#36f791;fill-opacity:1;stroke:none;stroke-width:1.36556;stroke-linecap:round;stroke-linejoin:round"
+       id="rect12080"
+       width="47.271366"
+       height="23.635685"
+       x="-24.598873"
+       y="69.775459"
+       ry="1.565576" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.34634px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.183659"
+       x="-108.58267"
+       y="84.769691"
+       id="text12616"><tspan
+         sodipodi:role="line"
+         id="tspan12614"
+         style="font-weight:bold;stroke-width:0.183659"
+         x="-108.58267"
+         y="84.769691">Valor Motor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.34634px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.183659"
+       x="-5.2944379"
+       y="84.769691"
+       id="text24745"><tspan
+         sodipodi:role="line"
+         id="tspan24743"
+         style="font-weight:bold;stroke-width:0.183659"
+         x="-5.2944379"
+         y="84.769691">20</tspan></text>
+    <path
+       style="opacity:0.442492;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.206932px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -53.400168,80.423451 v 1.595541 h 13.558192 l 0.0371,1.856735 c 0.06093,0.518148 0.1398,0.365281 0.484884,0.292478 l 4.434423,-2.566243 c 0.553396,-0.232176 0.360031,-0.553704 0.02421,-0.738146 l -4.649752,-2.622412 c -0.268569,-0.124563 -0.431716,-0.08159 -0.418628,0.213144 l 0.03934,1.968903 z"
+       id="path27370"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+</svg>
