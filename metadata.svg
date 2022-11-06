@@ -45,8 +45,8 @@
     <rect
        x="55.933441"
        y="253.72859"
-       width="400.07516"
-       height="193.88664"
+       width="447.79579"
+       height="187.76338"
        id="rect49090" />
     <rect
        x="63.25925"
@@ -99,7 +99,10 @@
        width="200"
        height="100"
        x="-324.61655"
-       y="31.168839" />
+       y="31.168839"
+       inkscape:export-filename="/home/simon/front/hugo/simonsite/static/metadatatw.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <g
        id="g20276"
        transform="matrix(1.7924375,0,0,1.7924375,242.03711,-40.671936)">
@@ -140,22 +143,17 @@
        style="line-height:1.25;font-family:Ubuntu;font-size:40px;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect43978)" />
     <text
        xml:space="preserve"
-       transform="matrix(0.33418553,0,0,0.33418553,-333.52572,-4.0880009)"
+       transform="matrix(0.29066778,0,0,0.29066778,-330.84767,4.2235439)"
        id="text49088"
        style="font-size:40px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect49090);fill:#ffffff"><tspan
          x="55.933594"
          y="291.0282"
-         id="tspan70682"><tspan
+         id="tspan80738"><tspan
            style="font-weight:bold;font-family:System-ui;-inkscape-font-specification:'System-ui Bold'"
-           id="tspan70680">¡Aún no has visto </tspan></tspan><tspan
-         x="55.933594"
-         y="342.93726"
-         id="tspan70686"><tspan
-           style="font-weight:bold;font-family:System-ui;-inkscape-font-specification:'System-ui Bold'"
-           id="tspan70684">esta entrada!</tspan></tspan></text>
+           id="tspan80736">¡Mira esta entrada!</tspan></tspan></text>
     <g
        id="g70218"
-       transform="matrix(0.71311725,0,0,0.71311725,-38.994236,37.696778)">
+       transform="matrix(0.71311725,0,0,0.71311725,-35.290067,37.696778)">
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.372657;stroke-dasharray:1.11797, 1.11797"
          id="rect69576"
