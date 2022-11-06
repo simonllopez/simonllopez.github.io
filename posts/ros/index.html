@@ -1,10 +1,15 @@
 <!DOCTYPE html>
-<html><div class="head">
-  <a href="/">
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head><div class="head">
+  <a href="/" >
     <img src="/logo.svg" alt="Simón López">
   </a>
 
-  <a  style="margin-left: auto;" href="https://twitter.com/SimonRobotics" target="_blank">
+  <div class="links">
+
+  <a href="https://twitter.com/SimonRobotics" target="_blank">
     <img  class="logo" src="/twitter.svg" alt="Simón López">
   </a>
 
@@ -20,7 +25,7 @@
     <img  class="logo" src="/youtube.svg" alt="Simón López">
   </a>
 
-
+  </div>
 </div>
 
 
@@ -54,11 +59,11 @@
   <p>Instalación de ubuntu ros2 y pruebas finales</p>
 
 
-  <h1 id="instalar-ubuntu">Instalar Ubuntu</h1>
+  <h2 id="instalar-ubuntu">Instalar Ubuntu</h2>
 <p>En mi caso voy a instalar la útima versión estable de Ubuntu (La 22.02).</p>
 <p>Esta actualización de ubuntu tiene su versión de ROS2 correpondiente: ROS <strong>humble</strong></p>
 <p>Acordarse de activar SSH</p>
-<h2 id="nmtui">nmtui</h2>
+<h3 id="nmtui">nmtui</h3>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="nx">sudo</span> <span class="nx">apt</span> <span class="nx">install</span> <span class="nx">net</span><span class="o">-</span><span class="nx">tools</span> <span class="c1">// para usar ifconf (saber la IP)
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span>
 </span></span><span class="line"><span class="cl"><span class="nx">sudo</span> <span class="nx">apt</span> <span class="nx">install</span> <span class="nx">network</span><span class="o">-</span><span class="nx">manager</span>  <span class="c1">// para user nmtui

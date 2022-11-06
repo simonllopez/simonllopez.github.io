@@ -14,20 +14,24 @@ body
 {
   display: flex;
   align-items: center;
-  /* justify-content: center; */
-
-  height: 80px;
   width: 90%;
   margin: auto;
   margin-top: 30px;
   max-width: 1000px;
   padding-right: 50px;
-
   gap: 15px;
+  
   
 }
 
-.head > a 
+.links 
+{
+  margin-left: auto;
+
+  
+}
+
+.links > a 
 {
   text-decoration: none;
   color: black;
@@ -109,7 +113,7 @@ body
   margin-bottom: 5px;
   font-weight: 400;
   font-size: 20px;
-  color: rgb(35, 100, 10);
+  color: rgb(5 98 86);
   margin: 0px;
   margin-bottom: 0px;
   padding: 0px;
@@ -134,13 +138,9 @@ body
   padding: 4px 10px;
   border-radius: 5px;
 }
-/* 
-.div-tag:hover
-{
-  cursor: pointer;
-  background-color: rgb(190, 226, 214);
 
-} */
+
+
 
 .tag-div-container
 {
@@ -190,6 +190,10 @@ body
 
 }
 
+.tag-div > a:hover {
+  background-color: rgb(152, 231, 212);
+}
+
 #tag-h
 {
   margin: 50px 0 20px 0;
@@ -216,4 +220,94 @@ body
   display: flex;
   align-items: center;
   gap: 10px;
+}
+
+
+@media only screen and (max-width: 500px) {
+
+
+  
+
+  .head
+  {
+    /* align-items: center; */
+    flex-direction: column;
+    align-items: center;
+    padding-right: 0;
+    /* left: 0; */
+    
+
+  }
+
+  .links {
+    /* background-color: red; */
+    margin-left: 0;
+
+  }
+
+  .content {
+    min-width: 0;
+
+  }
+
+  .content > h3
+  {
+
+    /* text-align: center; */
+    font-size: 30px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 10px;
+    max-width: 400px;
+
+  }
+
+
+  .post
+  {
+    width: 100%;
+    margin: auto;
+    max-width: 400px;
+    /* align-items: flex-start ; */
+    align-items: center;
+  }
+
+  .summary
+  {
+    font-size: 14px;
+    display: none
+  }
+
+
+  .post-title
+  {
+    font-size: 20px;
+    font-weight: 600;
+  }
+  
+
+  .post img
+  {
+    width: 60px;
+  }
+
+  .post time
+  {
+    font-size: 12px;
+
+  }  
+
+
+  .single
+  {
+    min-width: 0;
+    width: 90%;
+    margin: auto
+  }
+
+  code 
+  {
+    font-size: 10px;
+  }
+
 }
