@@ -25,23 +25,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>JS</title>
-      <link>https://simonllopez.github.io/tags/js/</link>
-      <pubDate>Wed, 12 Oct 2022 13:57:32 +0200</pubDate>
-      
-      <guid>https://simonllopez.github.io/tags/js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ESP32</title>
-      <link>https://simonllopez.github.io/tags/esp32/</link>
-      <pubDate>Wed, 12 Oct 2022 12:57:32 +0200</pubDate>
-      
-      <guid>https://simonllopez.github.io/tags/esp32/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

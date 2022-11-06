@@ -16,14 +16,5 @@
       <description>e</description>
     </item>
     
-    <item>
-      <title>Como instalar ROS2 en un mini PC para pruebas</title>
-      <link>https://simonllopez.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 12 Oct 2022 12:57:32 +0200</pubDate>
-      
-      <guid>https://simonllopez.github.io/posts/my-first-post/</guid>
-      <description>Emeplos</description>
-    </item>
-    
   </channel>
 </rss>
