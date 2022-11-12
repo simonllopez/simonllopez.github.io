@@ -79,10 +79,14 @@ body
 
 .single img
 {
-  width: 100%;
+  
+  max-height: 400px;
+  width: auto;
+  display: block;
   max-width:100%;
-  max-height:100%;
-  vertical-align: middle;  
+  margin-left: auto;
+  margin-right: auto;
+  /* vertical-align: middle;   */
 }
 
 
@@ -170,6 +174,13 @@ body
 }
 
 
+figcaption {
+text-align: center;
+margin-top: 5px;
+color: rgb(70, 70, 70); 
+font-style: italic;
+
+}
 
 .tag-div
 {
@@ -221,6 +232,8 @@ body
   align-items: center;
   gap: 10px;
 }
+
+
 
 
 @media only screen and (max-width: 500px) {

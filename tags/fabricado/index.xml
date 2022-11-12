@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fabricado on Simón López</title>
+    <link>https://simonllopez.github.io/tags/fabricado/</link>
+    <description>Recent content in fabricado on Simón López</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 10 Oct 2022 13:57:32 +0200</lastBuildDate><atom:link href="https://simonllopez.github.io/tags/fabricado/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Porta pilas impreso en 3D</title>
+      <link>https://simonllopez.github.io/posts/build/3d_battery_pack/</link>
+      <pubDate>Mon, 10 Oct 2022 13:57:32 +0200</pubDate>
+      
+      <guid>https://simonllopez.github.io/posts/build/3d_battery_pack/</guid>
+      <description>Porta pilas impreso en 3D para baterias 18650</description>
+    </item>
+    
+  </channel>
+</rss>
