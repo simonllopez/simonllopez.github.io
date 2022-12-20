@@ -1,0 +1,70 @@
+/* System Fonts as used by GitHub */
+* {
+  font-family: Ubuntu, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+
+body
+{
+  background-color: rgb(35, 36, 39);
+  margin: 0;
+
+}
+
+
+#demoCanvas
+{
+  background-color: rgb(24, 24, 26);
+}
+
+
+.main
+{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+
+#div-charts
+{
+  display: flex;
+  justify-content: center;
+  /* margin-top: 10px; */
+}
+
+
+.button-div
+{
+  width: 500px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5px;
+  margin-top: 5px;
+  text-align: center;
+
+
+}
+
+.button-div a
+{
+  font-size: 20px;
+  padding: 4px 10px;
+  text-decoration: none;
+  border-radius: 4px;
+  background-color: rgb(49, 59, 52);
+  color: rgb(69, 104, 60);
+}
+
+.button-div a:hover
+{
+  background-color: rgb(43, 75, 55);
+}
+
+
+.active
+{
+  background-color: rgb(10, 88, 30) !important;
+  color: rgb(193, 240, 183)!important;
+}
